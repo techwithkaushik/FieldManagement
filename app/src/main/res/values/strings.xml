@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Field Management</string>
+    <string name="field_name">Field Name</string>
+    <string name="field_area">Field Area</string>
+    <string name="current_crop">Current Crop</string>
+    <string name="add_field">Add Field</string>
+    <string name="login">Login</string>
+    <string name="exit">Exit</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="no_year_found">No Year Found</string>
+</resources>
